@@ -1,4 +1,5 @@
-console.log("Hello world from Main Branch!");
+console.log("Hello world from Main Branch!")
+console.log("Hello world from Main Branch2!");
 console.log("Hello world from Dev Branch!");
 
 
